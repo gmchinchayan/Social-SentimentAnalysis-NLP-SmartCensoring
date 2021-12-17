@@ -13,4 +13,10 @@ Gauge live feedback sentiment to help the those producing the live content to dr
 ### End-to-end solution overall architecture
 ![DSTI Project Objectives](https://user-images.githubusercontent.com/71192682/125971029-9811c599-aeca-4090-814d-54d7d42755ce.JPG)
 
-Updates will be posted
+### Methodology
+![dp](https://user-images.githubusercontent.com/71192682/146597340-e56b8084-84e8-47be-b9c5-66679dc5b2d7.JPG)
+
+### AWS Architecture
+![aws arch](https://user-images.githubusercontent.com/71192682/146597463-37d13202-0490-469f-85b6-8bdf33f6103a.JPG)
+
+More info to be posted
